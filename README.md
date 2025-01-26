@@ -99,6 +99,17 @@ AbetterWeb3致力于找到最好的人才，同时也为求职者提供了更多
 
 <br>
 
+## Blockchain.works-hub.com
+
+### 链接
+[Blockchain.works-hub.com](https://blockchain.works-hub.com/)
+
+### 语言
+英语
+
+### 简介
+Discover the best Blockchain opportunities with Blockchain Works.
+
 ## Cryptocurrency Jobs
 ### 链接
 
