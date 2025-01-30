@@ -437,25 +437,26 @@ SmartDeer 是面向全球市场、专注于 Web3 项目和人才连接的招聘�
 
 
 ## Tintinland Job 看板
+(更新：链接已失效)
 
 ### 链接
 
-[Tintinland Job](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)
+~~[Tintinland Job](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)~~
 
 ### 语言
-中文 
+~~中文~~
 
 ### 简介
 
-TinTinLand是一个专注于Web3开发者社区的平台。
+~~TinTinLand是一个专注于Web3开发者社区的平台。~~
 
-聚焦于推动区块链技术的发展，为开发者提供前沿的科技资讯、技术课程、研讨会、黑客松创业大赛及行业招聘。
+~~聚焦于推动区块链技术的发展，为开发者提供前沿的科技资讯、技术课程、研讨会、黑客松创业大赛及行业招聘。~~
 
-他们致力于支持Web3开发者的成长，并赋能更多的人加入并参与到Web3的建设中来。
+~~他们致力于支持Web3开发者的成长，并赋能更多的人加入并参与到Web3的建设中来。~~
 
-也欢迎你加入 链接全球的爱好者、开发者、创业者的TinTinLand社区，共同定义并构建未来。
+~~也欢迎你加入 链接全球的爱好者、开发者、创业者的TinTinLand社区，共同定义并构建未来。~~
 
-（以上官方链接是Tintinland社区 的官方工作看板）
+~~（以上官方链接是Tintinland社区 的官方工作看板）~~
 
 <br>
 <br>
