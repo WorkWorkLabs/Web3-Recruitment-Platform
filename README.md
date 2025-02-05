@@ -670,7 +670,7 @@ We recommend that you carefully evaluate the content, services, and reliability 
 
 By using the information we provide, you accept the terms and conditions of this disclaimer. If you have any questions or concerns about the accuracy of the information, please verify it yourself and contact the relevant website or company for help and support.
 
-Finally, we reserve the right to modify, update or delete this statement at any time. If you have any questions or comments, please contact us at web3clubCN@outlook.com.
+Finally, we reserve the right to modify, update or delete this statement at any time. If you have any questions or comments, please contact us at yanbo@Work-Work.org.
 
 
 
