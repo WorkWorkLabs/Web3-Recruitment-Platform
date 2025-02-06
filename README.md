@@ -40,6 +40,8 @@
 ---
 # 正文
 
+<details>
+
 # Web3-Recruitment-Platform
 Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Platform
 
@@ -610,6 +612,7 @@ Web3 Frontend
 
 初创公司为主的远程招聘平台
 
+</details>
 
 <br>
 
@@ -660,6 +663,7 @@ Web3 Frontend
 感谢 @JiceJin @GeeekerK [@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222_) 对本项目的贡献与支持。
 
 ## 免责声明
+<details>
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
 
 The Web3 job search engine information provided by this project is for convenience only and does not represent any guarantee or endorsement of the content, services, or reliability of these websites. This website is not responsible for any information, products or services provided by these Web3 job search engines. Therefore, if you visit or use any links or resources we provide, you do so at your own risk.
@@ -672,6 +676,7 @@ By using the information we provide, you accept the terms and conditions of this
 
 Finally, we reserve the right to modify, update or delete this statement at any time. If you have any questions or comments, please contact us at yanbo@Work-Work.org.
 
+</details>
 
 
 ©️ WorkWork 2023-2025
