@@ -9,6 +9,11 @@
     <a href="https://www.t.me/WorkWorkWeb3/">Telegram Group</a>
     ·
     <a href="https://www.x.com/WorkWorkWeb3/">X</a>
+
+
+ ---
+ 
+  <p> <h3> CV delivery｜简历投递：Yanbo@Work-Work.org </h3> <p>
     
 
 
@@ -45,6 +50,7 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 ---
 # 正文
+##### （点击详情展开）
 
 <details>
 
