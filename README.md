@@ -13,18 +13,8 @@
 #### Telegram 群组
 [![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
 
-#### Telegram频道
-
-#### Linkedin
-
-#### 小红书
-
 #### X（Twitter）
 [X](https://x.com/WorkWorkWeb3)
-
-#### Instagram
-
-#### 微信公众号
 
 
 ### 二维码
