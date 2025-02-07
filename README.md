@@ -27,6 +27,12 @@
 # Web3-Recruitment-Platform
 Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Platform
 
+<a href=""> <img src="https://badgen.net/badge/docs/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=chrome&color=black"></a>
+    <a href="https://github.com/WorkWorkWeb3/Web3-Recruitment-Platform"> <img src="https://badgen.net/github/stars/WorkWorkWeb3/Web3-Recruitment-Platform?icon=github&color=black"></a>
+    <a href="https://github.com/WorkWorkWeb3/Web3-Recruitment-Platform"> <img src="https://badgen.net/github/forks/WorkWorkWeb3/Web3-Recruitment-Platform?icon=github&color=black"></a>
+    <a href="https://github.com/WorkWorkWeb3/Web3-Recruitment-Platform/blob/main/LICENSE"> <img src="https://badgen.net/badge/license/GPLv3/"></a>
+    <br>
+
 中文 ｜ English
 
 
