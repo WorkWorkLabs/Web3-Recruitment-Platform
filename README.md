@@ -15,7 +15,8 @@
  
   <p> <h3> CV delivery｜简历投递：Yanbo@Work-Work.org </h3> <p>
     
-
+<p> [![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
+</p>
 
   </p>
 </div>
