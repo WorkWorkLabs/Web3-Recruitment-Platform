@@ -634,19 +634,6 @@ Web3 Frontend
 
 [![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Web3-Recruitment-Website)](https://github.com/Web3-Club/Web3-Recruitment-Website/graphs/contributors)  
 
-# 💐 赞助我们
-## 通过Donate3
-
-<a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee" target="_blank"><img src="https://www.donate3.xyz/Donate3ToMe.svg" alt="Donate3 To Me"></a>
-
-## ERC20
-`0x663d5dafe4362927e6dab344e8953b0ad4439d3f`
-
-<br>
-
-您的钱包地址将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
-**感谢您对我们社区未来健康发展所作出的支持**
-
 # 加入交流群
 [![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
 
