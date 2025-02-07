@@ -630,16 +630,16 @@ Web3 Frontend
 
 <br>
 
-## 贡献者
+# 贡献者
 
 [![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Web3-Recruitment-Website)](https://github.com/Web3-Club/Web3-Recruitment-Website/graphs/contributors)  
 
-## 💐 赞助我们
-### 通过Donate3
+# 💐 赞助我们
+## 通过Donate3
 
 <a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee" target="_blank"><img src="https://www.donate3.xyz/Donate3ToMe.svg" alt="Donate3 To Me"></a>
 
-### ERC20
+## ERC20
 `0x663d5dafe4362927e6dab344e8953b0ad4439d3f`
 
 <br>
@@ -647,19 +647,19 @@ Web3 Frontend
 您的钱包地址将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
 **感谢您对我们社区未来健康发展所作出的支持**
 
-## 加入交流群
+# 加入交流群
 [![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
 
 
-## Star History
+# Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=WorkWorkWeb3/Web3-Recruitment-Platform&type=Date)](https://star-history.com/#WorkWorkWeb3/Web3-Recruitment-Platform&Date)
 
 
-## 致谢
+# 致谢
 感谢 @JiceJin @GeeekerK [@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222_) 对本项目的贡献与支持。
 
-## 免责声明
+# 免责声明
 <details>
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
 
