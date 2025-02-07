@@ -4,16 +4,19 @@
     <p> <h2> 为行业发展泵入新鲜血液 </h2> </p>
    <p> <h3> Web3行业去中心化求职与职场社交平台 </h3> </p>
   <p>
-    <a href="https://www.work-work.org">Official Website</a>
+    <a href="https://www.work-work.org">官网（建设中）</a>
     ·
-    <a href="https://www.t.me/WorkWorkWeb3/">Telegram Group</a>
+    <a href="https://www.t.me/WorkWorkWeb3/">Telegram工友交流群</a>
     ·
-    <a href="https://www.x.com/WorkWorkWeb3/">X</a>
+    <a href="https://www.x.com/WorkWorkWeb3/">X（推特）</a>
 
 
  ---
  
-  <p> <h4> CV delivery｜简历投递：Yanbo@Work-Work.org </h3> <p>
+  <p> <h4> CV delivery｜简历投递</h4> <p>
+  <p> <h4>Yanbo@Work-Work.org </h4> <p>
+
+  
     
 
   </p>
