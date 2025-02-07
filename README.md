@@ -1,8 +1,8 @@
 <div align="center">
   <p><img src="/logo/Work-Work_font_logo.png" alt="Work-Work logo" width="576" height="180"></p>
   <p> <h1>  <a href="https://github.com/workworkweb3">Made in WorkWork</a>  </h1>  </p>
-
-   <p> <h2> Web3 workers' decentralized workplace & job search platform.</h2> </p>
+    <p> <h2> 为行业发展泵入新鲜血液 </h2> </p>
+   <p> <h3> Web3行业去中心化求职与职场社交平台 </h3> </p>
   <p>
     <a href="https://www.work-work.org">Official Website</a>
     ·
@@ -13,7 +13,7 @@
 
  ---
  
-  <p> <h3> CV delivery｜简历投递：Yanbo@Work-Work.org </h3> <p>
+  <p> <h4> CV delivery｜简历投递：Yanbo@Work-Work.org </h3> <p>
     
 
   </p>
