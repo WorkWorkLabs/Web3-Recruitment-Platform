@@ -612,6 +612,9 @@ Web3 Frontend
 <br>
 
 # 附录
+##### （点击详情打开）
+
+<details>
 
 ## Web3面试思路及问题整理 - The Web3
 
@@ -626,6 +629,8 @@ Web3 Frontend
 ### 链接
 
 [AbetterWeb3](https://abetterweb3.notion.site/6aeadfdaeded4c159155fa87a6b3a4c6?v=e89a605279814fc48fa8b3e07990e68e)
+
+</details>
 
 
 <br>
