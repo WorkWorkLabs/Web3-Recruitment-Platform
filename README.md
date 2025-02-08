@@ -37,8 +37,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 
 
-#  已更新 31 家平台
-（最后一次更新：2024/12/14）
+##  已更新 31-1 家平台
+（最后一次更新：2025/02/09）
 
 
 
@@ -440,6 +440,8 @@ SmartDeer 是面向全球市场、专注于 Web3 项目和人才连接的招聘�
 ## Tintinland Job 看板
 (更新：链接已失效)
 
+<details>
+  
 ### 链接
 
 ~~[Tintinland Job](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)~~
@@ -458,6 +460,8 @@ SmartDeer 是面向全球市场、专注于 Web3 项目和人才连接的招聘�
 ~~也欢迎你加入 链接全球的爱好者、开发者、创业者的TinTinLand社区，共同定义并构建未来。~~
 
 ~~（以上官方链接是Tintinland社区 的官方工作看板）~~
+
+</details>
 
 <br>
 <br>
