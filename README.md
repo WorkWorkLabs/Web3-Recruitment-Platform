@@ -52,7 +52,7 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 如果该项目对你有帮助 **欢迎Star支持**
 
-如果你正在尝试入行或者在找Web3岗位，想要和业内朋友交流，欢迎进入我们的[交流群](https://github.com/WorkWorkWeb3/Web3-Recruitment-Platform/blob/main/README.md#%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4)交流。
+如果你正在尝试入行或者在找Web3岗位，想要和业内朋友交流，欢迎进入我们的[交流群](https://www.t.me/WorkWorkWeb3/)交流。
 
 ---
 
