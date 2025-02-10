@@ -650,6 +650,11 @@ Web3 Frontend
 # 加入交流群
 [![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
 
+# 关注我们的社交媒体
+## X
+[![Twitter](https://img.shields.io/badge/@WorkWork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WorkWorkWeb3)
+
+
 ---
 
 # 广告位
