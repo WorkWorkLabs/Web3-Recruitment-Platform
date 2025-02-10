@@ -54,7 +54,9 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 （如果你正在尝试入行或者在找Web3岗位，想要和业内朋友交流，欢迎进入我们的[交流群](https://www.t.me/WorkWorkWeb3/)交流，**获取岗位实时信息推送**。
 
-想要让我们的专业团队帮您找到匹配的工作，请将您的简历投递到 **Yanbo@Work-Work.org**，并附上您的情况和求职方向。）
+想要让我们的专业团队帮您找到匹配的工作，请将您的简历投递到 **Yanbo@Work-Work.org**，并附上您的情况和求职方向。
+
+想要发布岗位到WorkWork 请联系[@yanbowang](https://t.me/yanbowang) ）
 
 ---
 
