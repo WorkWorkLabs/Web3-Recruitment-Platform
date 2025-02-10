@@ -64,7 +64,7 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 ---
 # 正文
-##### （点击详情展开）
+##### （点击详情展开平台列表）
 
 <details>
 
