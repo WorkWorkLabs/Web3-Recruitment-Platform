@@ -670,7 +670,7 @@ Web3 Frontend
 
 
 # 致谢
-感谢 @JiceJin @GeeekerK [@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222_) 对本项目的贡献与支持。
+感谢 @JiceJin @GeeekerK ~~[@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222_)~~ 对本项目的贡献与支持。
 
 # 免责声明
 <details>
