@@ -13,7 +13,7 @@
 
  ---
  
-  <p> <h4> CV delivery｜简历投递</h4> <p>
+  <p> <h4> CV delivery｜简历投递 </h4> <p>
   <p> <h4>Yanbo@Work-Work.org </h4> <p>
 
 
