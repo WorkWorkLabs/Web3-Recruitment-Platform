@@ -4,7 +4,7 @@
     <p> <h2> 为Web3行业发展持续泵入新鲜血液 </h2> </p>
    <p> <h3> 去中心化求职与职场社交平台 ——— WorkWork </h3> </p>
   <p>
-    <a href="https://www.work-work.org">官网（建设中）</a>
+    <a href="https://forum.work-work.org">论坛 </a>
     ·
     <a href="https://www.t.me/WorkWorkWeb3/">Telegram工友交流群</a>
     ·
