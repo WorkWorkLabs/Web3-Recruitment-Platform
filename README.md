@@ -616,8 +616,6 @@ Web3 Frontend
 
 </details>
 
-<br>
-
 # 附录
 #### 一些帮助找工作的辅助资料
 ##### （点击详情打开）
@@ -640,8 +638,13 @@ Web3 Frontend
 
 </details>
 
+---
 
-<br>
+# 广告位
+
+![海报横版 带二维码](https://github.com/user-attachments/assets/66552529-a8e6-4e0e-a55d-36612f145d13)
+
+---
 
 # 贡献者
 
@@ -654,17 +657,7 @@ Web3 Frontend
 ## X
 [![Twitter](https://img.shields.io/badge/@WorkWork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WorkWorkWeb3)
 
-
 ---
-
-# 广告位
-
-![海报横版 带二维码](https://github.com/user-attachments/assets/66552529-a8e6-4e0e-a55d-36612f145d13)
-
-
----
-
-
 
 # Star History
 
