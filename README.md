@@ -658,9 +658,10 @@ Web3 Frontend
 ---
 
 # 广告位
-##### 暂无 感兴趣请联系： contact@work-work.org
 
-##### 每月10000曝光量
+![全面赋能 求职无忧](https://github.com/user-attachments/assets/298a6055-63ba-483d-8e68-67c5b73bbe85)
+
+
 ---
 
 
