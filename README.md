@@ -659,7 +659,7 @@ Web3 Frontend
 
 # 广告位
 
-![全面赋能 求职无忧](https://github.com/user-attachments/assets/298a6055-63ba-483d-8e68-67c5b73bbe85)
+![海报横版 带二维码](https://github.com/user-attachments/assets/66552529-a8e6-4e0e-a55d-36612f145d13)
 
 
 ---
