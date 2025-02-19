@@ -642,7 +642,6 @@ Web3 Frontend
 
 # 广告位
 
-![海报横版 带二维码](https://github.com/user-attachments/assets/66552529-a8e6-4e0e-a55d-36612f145d13)
 
 ---
 
