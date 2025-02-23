@@ -9,13 +9,10 @@
     <a href="https://www.t.me/WorkWorkWeb3/">Telegram工友交流群</a>
     ·
     <a href="https://www.x.com/WorkWorkWeb3/">X（推特）</a>
-    
  ---
  
   <p> <h4> CV delivery｜简历投递 </h4> <p>
   <p> <h4>Yanbo@Work-Work.org </h4> <p>
-
-
   </p>
 </div>
 
@@ -681,7 +678,6 @@ By using the information we provide, you accept the terms and conditions of this
 Finally, we reserve the right to modify, update or delete this statement at any time. If you have any questions or comments, please contact us at yanbo@Work-Work.org.
 
 </details>
-
 
 ©️ WorkWork 2023-2025
 
