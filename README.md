@@ -639,6 +639,10 @@ Web3 Frontend
 
 # 广告位
 
+**如果你想系统性的学习web3知识或者苦于缺乏web3从业经验找不到第一份工作，欢迎加入HelloWeb3，我们来帮助你解决这个问题。**
+
+![33421741205374_ pic_hd](https://github.com/user-attachments/assets/8b8eca0f-5447-4190-a014-70783c258ecb)
+
 
 ---
 
