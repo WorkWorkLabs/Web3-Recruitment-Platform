@@ -653,7 +653,8 @@ Web3 Frontend
 （扫描右下角二维码了解更多信息）
 
 ## 知识星球
-![42001741445178_ pic](https://github.com/user-attachments/assets/bb143ae0-7f18-4d75-a9b6-429698061bb8)
+![42171741451305_ pic](https://github.com/user-attachments/assets/99d333a8-9d16-431d-8915-a5a33094a9ff)
+
 
 
 
