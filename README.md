@@ -643,6 +643,19 @@ Web3 Frontend
 
 </details>
 
+
+---
+
+# 贡献者
+
+[![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Web3-Recruitment-Website)](https://github.com/Web3-Club/Web3-Recruitment-Website/graphs/contributors)  
+
+# 加入交流群
+[![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
+
+# 关注我们的社交媒体
+## X
+[![Twitter](https://img.shields.io/badge/@WorkWork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WorkWorkWeb3)
 ---
 
 # 广告位
@@ -663,18 +676,6 @@ Web3 Frontend
 ![35891741256705_ pic_hd](https://github.com/user-attachments/assets/7620b4b2-1197-4a11-a4dc-908e39efef8b)
 
 
----
-
-# 贡献者
-
-[![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Web3-Recruitment-Website)](https://github.com/Web3-Club/Web3-Recruitment-Website/graphs/contributors)  
-
-# 加入交流群
-[![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
-
-# 关注我们的社交媒体
-## X
-[![Twitter](https://img.shields.io/badge/@WorkWork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WorkWorkWeb3)
 
 ---
 
