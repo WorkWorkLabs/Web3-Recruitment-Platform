@@ -671,12 +671,6 @@ Web3 Frontend
 
 
 
-## 3v1专项课程
-
-![35891741256705_ pic_hd](https://github.com/user-attachments/assets/7620b4b2-1197-4a11-a4dc-908e39efef8b)
-
-
-
 ---
 
 # Star History
