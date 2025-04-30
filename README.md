@@ -1,8 +1,8 @@
 <div align="center">
   <p><img src="/logo/Work-Work_font_logo.png" alt="Work-Work logo" width="576" height="180"></p>
   <p> <h1>  <a href="https://github.com/workworkweb3">Made in WorkWork</a>  </h1>  </p>
-    <p> <h2> 为Web3行业发展持续泵入新鲜血液 </h2> </p>
-   <p> <h3> Web3求职与职场社交平台 ——— WorkWork </h3> </p>
+    <p> <h2> 为远程及Web3行业发展持续泵入新鲜血液 </h2> </p>
+   <p> <h3> 远程求职与职场社交平台 ——— WorkWork </h3> </p>
   <p>
     <a href="https://forum.work-work.org">论坛 </a>
     ·
@@ -19,7 +19,7 @@
 ---
 
 # Web3-Recruitment-Platform
-Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Platform
+远程及Web3工作招聘平台、频道汇总｜Summary of Web3 Recruitment Platform
 
 <a href=""> <img src="https://badgen.net/badge/docs/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=chrome&color=black"></a>
     <a href="https://github.com/WorkWorkWeb3/Web3-Recruitment-Platform"> <img src="https://badgen.net/github/stars/WorkWorkWeb3/Web3-Recruitment-Platform?icon=github&color=black"></a>
