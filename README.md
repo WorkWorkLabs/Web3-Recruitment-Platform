@@ -22,7 +22,7 @@
 # Web3-Recruitment-Platform
 远程及Web3工作招聘平台、频道汇总｜Summary of Web3 Recruitment Platform
 
-<a href=""> <img src="https://badgen.net/badge/docs/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=chrome&color=black"></a>
+<a href="https://platform.work-work.org/"> <img src="https://badgen.net/badge/docs/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=chrome&color=black"></a>
     <a href="https://github.com/WorkWorkWeb3/Web3-Recruitment-Platform"> <img src="https://badgen.net/github/stars/WorkWorkWeb3/Web3-Recruitment-Platform?icon=github&color=black"></a>
     <a href="https://github.com/WorkWorkWeb3/Web3-Recruitment-Platform"> <img src="https://badgen.net/github/forks/WorkWorkWeb3/Web3-Recruitment-Platform?icon=github&color=black"></a>
     [![Telegram](https://img.shields.io/badge/Telegram-WorkWork-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/WorkWorkWeb3)
