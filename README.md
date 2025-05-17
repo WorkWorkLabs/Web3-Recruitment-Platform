@@ -669,17 +669,6 @@ Web3 Frontend
 [![Twitter](https://img.shields.io/badge/@WorkWork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WorkWorkWeb3)
 ---
 
-# 广告位
-
-
-**如果你想系统性的学习web3知识或者苦于缺乏web3从业经验找不到第一份工作，欢迎加入HelloWeb3，我们来帮助你解决这个问题。**
-
-（扫描右下角二维码了解更多信息）
-
-## 知识星球
-![42171741451305_ pic](https://github.com/user-attachments/assets/99d333a8-9d16-431d-8915-a5a33094a9ff)
-
-
 
 
 ---
