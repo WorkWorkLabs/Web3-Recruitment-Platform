@@ -670,7 +670,7 @@ Web3 Frontend
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=WorkWorkWeb3/Web3-Recruitment-Platform&type=Date)](https://star-history.com/#WorkWorkWeb3/Web3-Recruitment-Platform&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=WorkWorkOrg/Web3-Recruitment-Platform&type=Date)](https://star-history.com/#WorkWorkWeb3/Web3-Recruitment-Platform&Date)
 
 
 # 致谢
