@@ -3,7 +3,7 @@
     <img src="/logo/Work-Work_font_logo.png" alt="Work-Work logo" width="576" height="180"> 
   </p>
   
-  <p> <h1>  <a href="https://github.com/workworkweb3">Made in WorkWork</a>  </h1>  </p>
+  <p> <h1>  <a href="https://github.com/workworklabs">Made in WorkWork</a>  </h1>  </p>
     <p> <h2> 为远程及Web3行业发展持续泵入新鲜血液 </h2> </p>
    <p> <h3> 远程求职与职场社交平台 ——— WorkWork </h3> </p>
   <p>
