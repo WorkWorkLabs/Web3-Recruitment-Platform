@@ -172,6 +172,21 @@ Cryptojobs.com 是连续创业者Carl Runefelt建立的招聘平台，该平台�
 
 <br>
 
+## Sailonchain
+
+### 链接
+[Sailonchain](https://sailonchain.com)
+
+### 语言
+英语
+
+### 简介
+
+Sailonchain 是一个Web3招聘网站。它的目标是为数字货币和区块链行业提供最好的人才招聘服务。
+
+该网站提供全球范围内的远程和本地工作机会，
+
+比如 DeFi、Ethereum、DeFi 等等。
 
 ## DeFi Jobs
 ### 链接
