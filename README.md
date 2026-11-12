@@ -320,6 +320,22 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 
 <br>
 
+## Maneki
+
+
+### 链接
+[Maneki](https://maneki.work/)
+
+
+### 语言
+英语
+
+### 简介
+
+Maneki 是一个专注于 Web3 的招聘平台，聚合了众多顶级加密与区块链公司的开放职位，整理成一个干净、无猎头垃圾信息的信息流。还提供 AI 简历匹配（上传简历只看适合你的职位）、薪资数据以及远程/地区筛选，并通过 Telegram 频道和每周邮件推送最新职位。
+
+<br>
+
 ## Rebase
 ### 链接
 [Rebase](https://rebase.network/job)
