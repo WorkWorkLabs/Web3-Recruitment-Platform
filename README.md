@@ -109,6 +109,22 @@ AbetterWeb3致力于找到最好的人才，同时也为求职者提供了更多
 ### 简介
 Discover the best Blockchain opportunities with Blockchain Works.
 
+## chainjobs.app
+
+
+### 链接
+[chainjobs.app](https://chainjobs.app/)
+
+
+### 语言
+英语
+
+### 简介
+
+chainjobs.app 是一个面向 Web3 自由职业者的免费招聘平台：公司发布远程职位和零工，自由职业者发布服务，报酬可用加密货币或银行转账支付（与客户直接约定），平台收取 0% 费用。
+
+<br>
+
 ## Cryptocurrency Jobs
 ### 链接
 
