@@ -320,6 +320,22 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 
 <br>
 
+## JobsInCrypto
+
+
+### 链接
+[JobsInCrypto](https://jobsincrypto.net/)
+
+
+### 语言
+英语
+
+### 简介
+
+JobsInCrypto 是一个加密货币与 Web3 招聘网站，目前有 1000 多个经过人工审核的在线职位。求职者可以在人才库中创建匿名档案，由公司主动联系你。求职者免费使用。
+
+<br>
+
 ## Maneki
 
 
